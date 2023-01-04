@@ -1,3 +1,3 @@
 # Terminal-Portfolio
 
-Source code for a terminal based portfolio. Not currently hosting
+Source code for a terminal based portfolio. Hosted @ https://zdhenard42.github.io/Terminal-Portfolio/
